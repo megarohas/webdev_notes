@@ -1,0 +1,9 @@
+{
+  "name": "webdev_notes",
+  "version": "1.0.0",
+  "description": "some web notes",
+  "main": "index.js",
+  "author": "megarohas",
+  "license": "MIT",
+  "private": false
+}
